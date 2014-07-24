@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Blind3y3Design Blog
+subtitle: Thoughts and Lessons from a UX Developer
+author: Adam Sedwick
 simple_search: https://www.google.com/search
-description:
+description: Here I will share thoughts I have and lessons that I have learned throughout my time as a Front-End Developer with a focus on user experience.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
